@@ -1,6 +1,8 @@
-// License: AGPL.git
-// No warranty **BACKUP Zotero library before use**
-//
+// License: AGPL
+// **No warranty**
+// **BACKUP Zotero library before use**
+
+
 // cleanISBN(makeEdits)
 //   removes extraneous characters from the ISBN field
 //   **IMPORTANT**: if the ISBN field contains two ISBNs, only the first is kept
