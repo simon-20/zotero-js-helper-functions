@@ -14,8 +14,8 @@ These helper functions are released under the same license as Zotero, and come w
 5. Open the Zotero > Developer > Run Javascript window
 6. Copy the JS code from the desired function into the window
 7. Edit as required
-8. Run the code with `makeEdits` false to preview results
-9. If preview looks okay, run the code with `madeEdits` true
+8. Run the code with the `makeEdits` parameter set to `false` to preview results
+9. If preview looks okay, run the code with `madeEdits` set to `true`
 
 **Note 1**: The last parameter on functions that may make changes is called `makeEdits`; when this is false, the changes that will be made are shown in the right hand panel when the code is run, but the changes will not actually be made. The changes will only be made when the `makeEdits` flag is set to true.
 
